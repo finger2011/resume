@@ -12,7 +12,7 @@
 
 ## 专业技能
 + php:2013开始从事php开发，熟悉laravel，Yaf，Zend，Laravel，CI等框架并有过实际项目经验
-+ mysql：能够独立负责小型系统的DB设计，能够处理部分mysql性能问题
++ mysql：能够独立负责中小型系统的DB设计，对mysql性能问题有一定心得
 + 前端：熟悉js，jQuery，对vue有一定了解
 + 其他：熟悉redis基本数据结构，了解java、python并参与过实际项目开发。
 
